@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\bin\Debug\NotesDataAccess.dll
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\bin\Debug\NotesDataAccess.pdb
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\obj\Debug\NotesDataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\obj\Debug\NotesDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\obj\Debug\NotesDataAccess.dll
+C:\Users\admin\source\repos\NotesAppAPIService\NotesDataAccess\obj\Debug\NotesDataAccess.pdb
